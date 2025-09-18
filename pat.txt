@@ -1,0 +1,4 @@
+Fixes the memopry leak
+
+
+delete pObj
